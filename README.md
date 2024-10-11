@@ -1,4 +1,4 @@
-### PS: The code for this Repositry is Private for now as this project is an on going project which is part of my Course For BIG DATA and INTELLIGENT SYSTEMS Code Will be Available after SEPT 27
+## Link for the Repo with Code- https://github.com/BigDataIA-Fall2024-TeamA2/Assignment1
 # Model Evaluation Tool for GAIA Dataset
 Technologies Used:
 - Streamlit
